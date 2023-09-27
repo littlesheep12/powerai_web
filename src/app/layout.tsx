@@ -6,12 +6,12 @@ import BackToTop from "@/components/back-to-top";
 
 const montserrat = Montserrat({ subsets: ["latin"] });
 export const metadata: Metadata = {
-  title: "Leo Young | Personal",
+  title: "Lingyu Yang | Personal Website",
   authors: [
-    { name: "Leo Yang", url: "https://github.com/littlesheep12" },
+    { name: "Lingyu Yang", url: "https://github.com/littlesheep12" },
     { name: "杨凌宇", url: "https://github.com/littlesheep12" },
   ],
-  description: "Leo Yang's personal portfolio website, 杨凌宇的个人网站",
+  description: "Lingyu's personal portfolio website, 杨凌宇的个人网站",
 };
 
 

@@ -14,7 +14,7 @@ export default function Header() {
   // const links = ["about", "skills", "contact"];
   const links = [
     { text: "ABOUT", href: "/about" },
-    { text: "EXPERIENCE", href: "/project" },
+    { text: "EXPERIENCE", href: "/exp" },
     { text: "RESUME", href: "/LingyuYang_Resume_0920.pdf"}
   ];
   return (
@@ -29,7 +29,7 @@ export default function Header() {
               goldenSignature.className,
             )}
           >
-            <Link href="/">Leo Yang</Link>
+            <Link href="/">Lingyu Yang</Link>
           </div>
 
           <div className="nav-links flex gap-x-8 text-xs md:text-base">
