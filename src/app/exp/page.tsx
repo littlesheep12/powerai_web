@@ -3,7 +3,8 @@ import ExperienceItem from './ExperienceItem'; // 导入ExperienceItem组件
 
 const ProjectsPage: React.FC = () => {
   return (
-    <div>
+    <section className="mx-auto my-16 flex flex-col items-center justify-center gap-4 px-2 md:my-20  md:max-w-full lg:flex-row lg:items-start lg:gap-16">
+          <div>
       <h1 className="text-2xl font-bold">PROJECT EXPERIENCE</h1>
 
       <ExperienceItem
@@ -60,6 +61,7 @@ const ProjectsPage: React.FC = () => {
 
       {/* 其他工作经验的使用方式 */}
     </div>
+    </section>
   );
 };
 
