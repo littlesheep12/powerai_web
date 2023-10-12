@@ -15,7 +15,7 @@ export default function Header() {
   const links = [
     { text: "ABOUT", href: "/about" },
     { text: "EXPERIENCE", href: "/exp" },
-    { text: "RESUME", href: "/LingyuYang_Resume_0920.pdf"}
+    { text: "RESUME", href: "/LingyuYang_Resume_1012.pdf"}
   ];
   return (
     <>
