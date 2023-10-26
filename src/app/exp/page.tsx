@@ -9,7 +9,7 @@ const ProjectsPage: React.FC = () => {
 
       <ExperienceItem
         title="Personal Website"
-        date="08/2023 - Now"
+        date="08/2023"
         technologies={['HTML', 'CSS', 'JavaScript', 'Hugo']}
         description={`This website uses PaperMod theme and is based on Hugo. 
           Added code color highlighting, social media logos, and other module builds.`}

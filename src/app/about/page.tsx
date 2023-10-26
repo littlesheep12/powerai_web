@@ -16,7 +16,7 @@ export default function AboutPage() {
         <article className="flex flex-col gap-4">
           <MotionDiv delayOffset={0.4}>
             <p>
-              Hi, I'm Leo Yang and my Chinese is
+              Hi, I'm Leo Yang and my Chinese name is
               <span className="whitespace-nowrap"> 杨凌宇</span>
               . I am a software engineer with a passion for capturing moments through the lens as a photographer.
             </p>

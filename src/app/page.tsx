@@ -37,7 +37,7 @@ function HomePage() {
       <MotionDiv delayOffset={1.2}>
       <p style={{ whiteSpace: 'nowrap' }}>Welcome to my personal page!</p>
       </MotionDiv>
-      <MotionDiv delayOffset={1.4}>
+      <MotionDiv delayOffset={1.2}>
         <p style={{ whiteSpace: 'nowrap' }}>Hard times teach us valuable lessons</p>
       </MotionDiv>
     </div>
