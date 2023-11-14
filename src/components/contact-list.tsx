@@ -26,27 +26,21 @@ const contacts: Contact[] = [
   {
     name: "Email",
     className: "bg-yellow-500 hover:bg-yellow-600",
-    href: "mailto:yang.lingyu1999@gmail.com",
+    href: "mailto:#",
     icon: faEnvelope,
   },
 
   {
     name: "LinkedIn",
     className: "bg-blue-800 hover:bg-blue-800/90",
-    href: "https://www.linkedin.com/in/lingyu-yang/",
+    href: "https://www.linkedin.com/company/poweraisoftware/",
     icon: faLinkedinIn,
   },
   {
     name: "Github",
     className: "bg-black hover:bg-gray-800/90",
-    href: "https://github.com/littlesheep12",
+    href: "#",
     icon: faGithub,
-  },
-  {
-    name: "Instagram",
-    className: "bg-pink-500 hover:bg-pink-600",
-    href: "https://www.instagram.com/littlesheep_record/",
-    icon: faInstagram,
   },
 ];
 
